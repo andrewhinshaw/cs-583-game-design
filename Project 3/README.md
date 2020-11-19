@@ -4,6 +4,8 @@ The purpose of this project was to create a fully functional 3D game using Unity
 ## Game Overview
 *Sweep Jumper* takes the familiar minesweeper mechanics and throws on an added twist. Jump through and clear each minesweeper puzzle through a first person perspective. Use your drone buddy to reveal grid values that you may be unsure about.
 
+![Image of Sweep Jumper Gameplay](https://github.com/andrewhinshaw/cs-583-game-programming/blob/main/Project%203/Images/gameplay.png)
+
 ## High Concept
 *Sweep Jumper* challenges the player with completing all three levels as quickly as possible. Each level gets progressively larger with the number of mines increasing as well.
 
@@ -20,6 +22,8 @@ The drone buddy will follow the player around the map, revealing any grid values
 Once all grid values are revealed minus the mines the level portal will be triggered. Navigate to the portal to go to the next level.
 
 As the game progresses through each level, the difficulty increases in both the total number of grid spheres and also the total number of mines. The increase in total grid spheres makes the grid much larger and harder to traverse.
+
+![Image of Sweep Jumper Tutorial Level](https://github.com/andrewhinshaw/cs-583-game-programming/blob/main/Project%203/Images/tut.png)
 
 ## Wishlist
 The wishlist for this game is quite extensive as it has a lot of potential for some great features:
